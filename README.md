@@ -7,6 +7,7 @@
 # Working Features:
 #
 # -Vintage CRT style green text on dark background
+# -Multiple chat tabs in windowed mode with save/close and recall feature
 # -Customizeable font and font size
 # -Automatic polling of GPT models available with your OpenAI key
 # -F3 Clear screen hotkey
